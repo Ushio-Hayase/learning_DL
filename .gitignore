@@ -1,7 +1,6 @@
 .venv
 data/
 __pycache__
-*.pt
 __pycache__
 aihubshell
 *.npy
